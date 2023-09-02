@@ -5,7 +5,7 @@ const router = express.Router()
 
 
 
-router.get("/", locationName)
+router.get("/location", locationName)
 router.get("/meal", mealtype)
 router.get("/breakfast", locationName)
 router.post("/mealdata", mealDataCtrl)
