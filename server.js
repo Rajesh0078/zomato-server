@@ -13,7 +13,11 @@ DbConnection()
 app.use(cors())
 app.use(bodyParser.json())
 
+app.get("/", (req,res)=>{
+    res.setHeader("Access-Control-Allow-Credentials","true");
+})
 app.use("/", router)
+
 
 app.listen(PORT, () => {
     console.log(`server is running on ${PORT}`)
