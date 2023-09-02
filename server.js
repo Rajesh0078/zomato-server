@@ -15,7 +15,6 @@ app.use(bodyParser.json())
 
 app.get("/", (req,res)=>{
     res.setHeader("Access-Control-Allow-Credentials","true");
-    res.send("working")
 })
 app.use("/", router)
 
