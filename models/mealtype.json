@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "1",
+        "name": "Empire Restaurant",
+        "address": "Rajajinagar, Bangalore-430006, Bangalore",
+        "thumb": "https://cdn.pixabay.com/photo/2016/11/06/23/31/breakfast-1804457_1280.jpg",
+        "mealtype": "breakfast"
+    },
+    {
+        "_id": "2",
+        "name": "Empire Restaurant",
+        "address": "Rajajinagar, Bangalore-430006, Bangalore",
+        "thumb": "https://cdn.pixabay.com/photo/2015/10/01/14/26/fried-rice-967081_1280.jpg",
+        "mealtype": "Lunch"
+    },
+    {
+        "_id": "3",
+        "name": "Empire Restaurant",
+        "address": "Rajajinagar, Bangalore-430006, Bangalore",
+        "thumb": "https://cdn.pixabay.com/photo/2012/02/29/12/17/bread-18987_1280.jpg",
+        "mealtype": "Snacks"
+    },
+    {
+        "_id": "4",
+        "name": "Empire Restaurant",
+        "address": "Rajajinagar, Bangalore-430006, Bangalore",
+        "thumb": "https://cdn.pixabay.com/photo/2014/04/05/11/27/buffet-315691_1280.jpg",
+        "mealtype": "Dinner"
+    },
+    {
+        "_id": "5",
+        "name": "Empire Restaurant",
+        "address": "Rajajinagar, Bangalore-430006, Bangalore",
+        "thumb": "https://cdn.pixabay.com/photo/2017/01/09/02/02/pink-wine-1964457_1280.jpg",
+        "mealtype": "Drinks"
+    },
+    {
+        "_id": "6",
+        "name": "Empire Restaurant",
+        "address": "Rajajinagar, Bangalore-430006, Bangalore",
+        "thumb": "https://cdn.pixabay.com/photo/2018/04/10/20/54/people-3308747_1280.jpg",
+        "mealtype": "Nightlife"
+    }
+]
